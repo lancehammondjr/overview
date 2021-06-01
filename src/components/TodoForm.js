@@ -37,6 +37,7 @@ function TodoForm({ addTodo }) {
             >Submit</button>
         </form>
     );
+    
 }
 
 export default TodoForm;

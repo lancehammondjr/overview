@@ -25,6 +25,7 @@ function Todo({ todo, isComplete, removeTodo }) {
         >Done</button>
         </div>
     );
+    
 }
 
 export default Todo;
